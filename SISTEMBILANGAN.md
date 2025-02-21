@@ -3,7 +3,7 @@
  ## Latihan
  
  ## 1
- a. Bilangan biner adalah bilangan yang berbasis :Dua
+ a. Bilangan biner adalah bilangan yang berbasis : Dua
  
  b. Bilangan heksadesimal adalah bilangan yang berbasis : Enam belas 
  
@@ -33,13 +33,13 @@ c.2321<sub>10</sub> = 100100010001 (c)
 
 
 ## 3.Konversikan bilangan biner di bawah ini ke dalam bilangan desimal
-a.10101010 = 1x(128)+0x(64)+1x(32)+0x(16)+1x(8)+0x(4)=1x(2)+0x(1)= 170<sub>(a)</sub>
+a.10101010 = 1x(128)+0x(64)+1x(32)+0x(16)+1x(8)+0x(4)=1x(2)+0x(1)= 170(a)
 
-b.01010101 = 85<sub>(b)</sub>
+b.01010101 = 85(b)
 
-c.11001100 = 204<sub>(c)</sub>
+c.11001100 = 204(c)
 
-d.10011111 = 159<sub>(d)</sub>
+d.10011111 = 159(d)
 
 
 ## 4.Konversikan bilangan biner di bawah ini kedalam bilangan oktal
@@ -117,48 +117,48 @@ a. 0,3125<sub>10</sub>
 
 Jadi, jawabannya adalah 0,0101<sub>2</sub> (a)
 
-b. 0,65625<sub>10</sub> = 0,101012 (b)
+b. 0,65625<sub>10</sub> = 0,10101<sub>2</sub> (b)
 
-c. 0,34375<sub>10</sub> = 0,010112 (c)
+c. 0,34375<sub>10</sub> = 0,01011<sub>2</sub> (c)
 
-d. 0,140625<sub>10</sub> = 0,0010012 (d)
+d. 0,140625<sub>10</sub> = 0,001001<sub>2</sub> (d)
 
 
 ## 9.	Konversikan bilangan desimal di bawah ini ke dalam bilangan biner 
-a. 11,62510
-   1. bilangan bulat (11)
-	      11 / 2 = 5 sisa 1
-       5 / 2 = 2 sisa 1
-       2 / 2 = 1 sisa 0
-       1 / 2 = 0 sisa 1
-11012
+a. 11,625<sub>10</sub>
+1. bilangan bulat (11)
+11 / 2 = 5 sisa 1
+5 / 2 = 2 sisa 1
+2 / 2 = 1 sisa 0
+1 / 2 = 0 sisa 1
+                 1101<sub>2</sub>
    2. bilangan pecahan (0,625)
-	      0,625 x 2 = 1 sisa 0,25
+       0,625 x 2 = 1 sisa 0,25
        0,25 x 2 = 0 sisa 0,5
        0,5 x 2 = 1 sisa 0
-	0,1012
-Jadi, jawabannya adalah 1101,1012 (a)
+       0,101<sub>2</sub>
+Jadi, jawabannya adalah 1101,101<sub>2</sub> (a)
 
-b. 0,687510
+b. 0,6875<sub>10</sub> = 0,1011<sub>2</sub> (b)
 
-c. 0,7510
+c. 0,75<sub>10</sub> = 0,11<sub>2</sub>
 
-d. 25,7510
-
+d. 25,75<sub>10</sub> = 11001,011<sub>2</sub>(d)
 
 ## 10	Konversikan bilangan desimal di bawah ini ke dalam bilangan heksadesimal 
 
 a. 348,65410
 
 1. bilangan bulat (348)
-2. 
+
 348 / 16 = 21 sisa 12->C
    
 21 / 16 = 1 sisa 5->5
 
 1 / 16 = 0 sisa 1->1
 
-15C16
+15C<sub>16</sub>
+
 2. bilangan pecahan (0,654)
 
 0,654 x 16 = 10->A sisa 0,464
@@ -169,11 +169,11 @@ a. 348,65410
 
 0,784 x 16 = 12->C sisa 0,544
 
-0,A76C16 
+0,A76C<sub>16</sub> 
 
-Jadi,jawabannya adalah 15C,A76C16
+Jadi,jawabannya adalah 15C,A76C<sub>16</sub>
 
-b. 1784,240 10
+b. 1784,240 <sub>10</sub> = 6F8,3D7<sub>16</sub>
 
 
 ## 11	Konversikan bilangan di bawah ini ke dalam bilangan desimal
@@ -181,116 +181,116 @@ a.  010100011,0011111012
 
 1. bilangan bulat biner (010100011)
    
-0 x (256) + 1 x (128) + 0 x (64) + 1 x (32) + 0 x (16)  + 0 x (8) + 0 x (4) + 1 x (2) + 1 x (1) = 16310
-16310 
+0 x (256) + 1 x (128) + 0 x (64) + 1 x (32) + 0 x (16)  + 0 x (8) + 0 x (4) + 1 x (2) + 1 x (1) = 163<sub>10</sub>
+163<sub>10</sub> 
 
 2. bilangan pecahan biner (001111101)
    
 0 × 2⁻¹ + 0 × 2⁻² + 1 × 2⁻³ + 1 × 2⁻⁴ + 1 × 2⁻⁵ + 1 × 2⁻⁶ + 1 × 2⁻⁷ + 0 × 2⁻⁸ = 0.246
 
-0,24610
+0,246<sub>10</sub>
 
-Jadi,jawabannya adalah 163,12510
+Jadi,jawabannya adalah 163,125<sub>10</sub>
 
-b.  654,2768   
+b.  654,276<sub>8</sub>   = 428,359<sub>10</sub>
 
-c. 4C5,2B816
+c. 4C5,2B8<sub>16</sub> = 1221,168<sub>10</sub>
 
 
 ## 12	Rubahlah bilangan biner di bawah ini ke dalam bentuk BCD 
 
-a. 10 1001 1000 01112 (BCD)
+a. 10 1001 1000 0111<sub>2</sub> (BCD)
 
-00102 = 210
+0010<sub>2</sub> = 2<sub>10</sub>
 
-10012 = 910
+1001<sub>2</sub> = 9<sub>10</sub>
 
-10002 = 810
+1000<sub>2</sub> = 8<sub>10</sub>
 
-01112 = 710
+0111<sub>2</sub> = 7<sub>10</sub>
 
-Jadi, jawabannya adalah 298410 (a)
+Jadi, jawabannya adalah 2984<sub>10</sub> (a)
 
-b. 1 0101 0110 00112 (BCD)
+b. 1 0101 0110 0011<sub>2</sub>(BCD) = 1563<sub>10</sub> (b)
 
 
 ## 13	Rubahlah bentuk BCD di bawah ini ke dalam bilangan biner
 
-a. 198710 (BCD)
+a. 1987<sub>10</sub>(BCD)
 
-110 = 00012
+1<sub>10</sub> = 0001<sub>2</sub>
 
-910 = 10012
+9<sub>10</sub> = 1001<sub>2</sub>
 
-810 = 10002
+8<sub>10</sub> = 1000<sub>2</sub>
 
-710 = 01112
+7<sub>10</sub> = 0111<sub>2</sub>
 
-Jadi, jawabannya adalah 0001 1001 1000 01112 (a)
+Jadi, jawabannya adalah 0001 1001 1000 0111<sub>2</sub> (a)
 
-b. 234610 (BCD)
+b. 2346<sub>10</sub> (BCD) = 0010 0011 0100 0110<sub>2</sub>(b)
 
-c. 50110 (BCD)
+c. 501<sub>10</sub> (BCD) = 0101 0000 0001<sub>10</sub>(c)
 
 
 ## 14	Rubahlah bilangan biner di bawah ini ke dalam BCO
 
-a. 11 111 101 0012 (BCO)
+a. 11 111 101 001<sub>2</sub> (BCO)
 
-0112 = 38
+011<sub>2</sub> = 3<sub>8</sub>
 
-1112 = 78
+111<sub>2</sub> = 7<sub>8</sub>
 
-1012 = 58
+101<sub>2</sub> = 5<sub>8</sub>
 
-0012 = 18
+001<sub>2</sub> = 1<sub>8</sub>
 
-Jadi, jawabannya adalah 011 111 101 0018 (a)
+Jadi, jawabannya adalah 011 111 101 001<sub>8</sub> (a)
 
-b. 101 110 010 1002 (BCO)
+b. 101 110 010 100<sub>2</sub> (BCO) = 5638<sub>8</sub> (b)
 
-c. 1 100 000 0102 (BCO)
+c. 1 100 000 010<sub>2</sub>(BCO) = 1402<sub>8</sub> (c)
 
 
 ## 15	Rubahlah bilangan biner di bawah ini ke dalam BCH
 
-a. 1101 1111 0010 11102 (BCH)
+a. 1101 1111 0010 1110<sub>2</sub> (BCH)
 
-11012 = 1310 -> D16
+1101<sub>2</sub> = 13<sub>10</sub> -> D<sub>16</sub>
 
-11112 = 1510 -> F16
+1111<sub>2</sub> = 15<sub>10</sub> -> F<sub>16</sub>
 
-00102 = 210 -> 216
+0010<sub>2</sub> = 2<sub>10</sub> -> 2<sub>16</sub>
 
-11102 = 1410 -> E16
+1110<sub>2</sub> = 14<sub>10</sub> -> E<sub>16</sub>
 
-Jadi, jawabannya adalah DF2E16 
+Jadi, jawabannya adalah DF2E<sub>16</sub> 
 
-b. 110 1001 1000 00012 (BCH)
+b. 110 1001 1000 0001<sub>2</sub> (BCH) = 6981<sub>8</sub> (b)
 
 
 ## 16	Rubahlah Bentuk BCH di bawah ini ke dalam bilangan heksadesimal
 
-a. F0DE 16 (BCH)
+a. F0DE <sub>16</sub> (BCH)
 
-F16 = 1510 -> 11112
+F<sub>16</sub> = 15<sub>10</sub> -> 1111<sub>2</sub>
 
-016 = 010 -> 00002
+0<sub>16</sub> = 0<sub>10</sub> -> 0000<sub>2</sub>
 
-D16 = 1310 -> 11012
+D<sub>16</sub> = 13<sub>10</sub> -> 1101<sub>2</sub>
 
-E16 = 1410 -> 11102
+E<sub>16</sub> = 14<sub>10</sub> -> 1110<sub>2</sub>
 
-Jadi, jawabannya adalah 1111 0000 1101 11102 (a)
+Jadi, jawabannya adalah 1111 0000 1101 1110<sub>2</sub> (a)
 
-b. 1CAB 16 (BCH)
+b. 1CAB <sub>16</sub> (BCH) = 0001 1100 1010 1011<sub>2</sub>(b)
 
-c. 83416 (BCH)
+c. 834<sub>16</sub> (BCH) = 1000 0011 0100<sub>2</sub>(c)
 
 
 ## 17	Nyatakan positip atau negatip bilangan biner di bawah ini 
 
-a. 011111112 
+a. 01111111<sub>2</sub> 
 
 0 = Positif (+)
 
@@ -298,14 +298,14 @@ a. 011111112
 
 Jadi, jawabannya adalah Positip 127 (a)
 
-b. 100000002 
+b. 10000000<sub>2</sub> = Negatip 128(b) 
 
-c. 011110112 
+c. 01111011<sub>2</sub> = Positip 123(c) 
 
 
 ## 18	Nyatakan bilangan biner negatip di bawah ini ke dalam bilangan desimal 
 
-a. 100010002 
+a. 10001000<sub>2</sub> 
 
 1 = Negatif (-)
 
@@ -313,41 +313,42 @@ a. 100010002
 
 Jadi, jawabannya adalah -120 (a)
 
-b. 111101112 
+b. 11110111<sub>2</sub> = -9(b) 
 
-c. 100001012 
+c. 10000101<sub>2</sub> = =123 (c)
 
+d. 10011100<sub>2</sub> =  -100 (d)
 
 ## 19	Nyatakan ASCII Code di bawah ini dalam bentuk karakter 
 
-a. 4116 
+a. 41<sub>16</sub> 
 
-4 x 16 + 1 x 1 = 6510 -> ‘A’
+4 x 16 + 1 x 1 = 65<sub>10</sub> -> ‘A’
 
 Jadi, jawabannya adalah A (a)
 
-b. 5A16 
+b. 5A<sub>16</sub> = Z(b)
 
-c. 2416 
+c. 24<sub>16</sub> = $(c)
 
-d. 7716 
+d. 77<sub>16</sub> = W(d)
 
 
 ## 20	Nyatakan Karakter di bawah ini dalam ASCII Code
 
 a. a 
 
- ‘a’ -> 9710
+ ‘a’ -> 97<sub>10</sub>
  
-97 / 16 = 6 sisa 1 -> 116
+97 / 16 = 6 sisa 1 -> 1<sub>16</sub>
 
-6 / 16 = 0 sisa 6 -> 616
+6 / 16 = 0 sisa 6 -> 6<sub>16</sub>
 
-Jadi, jawabannya adalah 6116 (a)
+Jadi, jawabannya adalah 61<sub>16</sub> (a)
 
-b . x 
+b . x = 78<sub>16</sub>
 
-c . m 
+c . m = <sub>2</sub>
 
 
 ## 21	Dengan Keyboard standard ASCII, pada layar monitor nampak tulisan sebagai berikut
