@@ -1,4 +1,4 @@
-﻿# SISTEM BILANGAN, Desimal , Biner, Oktal dan Heksadesimal
+﻿# SISTEM BILANGAN, DESIMAL , BINER, OKTAL dan HEKSADESIMAL
  
  ## Latihan
  
@@ -97,11 +97,11 @@ a.ABCD<sub>16</sub>
 | D           | 13 x (16)^0             | 13    |
 Jadi, jawabannya adalah 40960 + 2816 + 192 + 13 = 43981<sub>10</sub> (a)
 
-b. 2170<sub>16</sub> = 856010 (b)
+b. 2170<sub>16</sub> = 8560<sub>10</sub> (b)
 
-c. B75F<sub>16</sub> = 4694310 (c) 
+c. B75F<sub>16</sub> = 46943<sub>10</sub> (c) 
 
-d. 2170<sub>16</sub> = 4694310 (c)
+d. 2170<sub>16</sub> = = 60397<sub>10</sub> (d)
 
 
 ## 8.	Konversikan bilangan pecahan desimal di bawah ini ke dalam bilangan biner 
@@ -177,7 +177,7 @@ b. 1784,240 <sub>10</sub> = 6F8,3D7<sub>16</sub>
 
 
 ## 11	Konversikan bilangan di bawah ini ke dalam bilangan desimal
-a.  010100011,0011111012
+a.  010100011,001111101<sub>2</sub>
 
 1. bilangan bulat biner (010100011)
    
@@ -348,13 +348,29 @@ Jadi, jawabannya adalah 61<sub>16</sub> (a)
 
 b . x = 78<sub>16</sub>
 
-c . m = <sub>2</sub>
+c . m = 6D<sub>16</sub>
 
+d . H = 48<sub>16</sub>
 
 ## 21	Dengan Keyboard standard ASCII, pada layar monitor nampak tulisan sebagai berikut
 
 PRINT X
 Nyatakan Keluaran pada Keyboard tersebut.
+
+P=80=01010000 
+
+R=82=01010010 
+
+I=73=01001001 
+
+N=78=01001110 
+
+T=84=01010100 
+
+Space=32=00100000 
+
+X=88=01011000
+
 
 
 
