@@ -1,15 +1,19 @@
 # Rangkuman Sistem Operasi yang Berpengaruh
 
-Dokumen ini membahas beberapa sistem operasi yang memiliki pengaruh besar dalam perkembangan teknologi komputer. Berikut adalah rangkuman yang lebih detail dari sistem-sistem operasi tersebut:
+---
 
 ## A.1 Migrasi Fitur
 - **Migrasi Fitur**: Fitur yang awalnya hanya ada di sistem besar (mainframe) akhirnya diadopsi oleh sistem yang lebih kecil (microcomputer). Ini menunjukkan bagaimana konsep yang awalnya dirancang untuk sistem besar dapat diterapkan pada sistem yang lebih kecil seiring dengan perkembangan teknologi.
 - **Contoh**: MULTICS, sistem operasi yang dikembangkan pada 1960-an, mempengaruhi perkembangan sistem operasi modern seperti UNIX. MULTICS memperkenalkan konsep seperti proteksi berbasis ring dan sistem file hierarkis, yang kemudian diadopsi oleh sistem operasi modern.
 
+---
+
 ## A.2 Sistem Awal
 - **Sistem Dedikasi**: Pada awal perkembangan komputer, programmer juga berperan sebagai operator. Mereka harus memuat program secara manual ke dalam memori menggunakan panel depan, pita kertas, atau kartu berlubang. Program kemudian dijalankan dan dimonitor melalui lampu display di konsol.
 - **Sistem Berbagi**: Untuk meningkatkan efisiensi, operator profesional diperkenalkan. Operator ini memiliki pengalaman lebih dalam mengelola sistem, sehingga mengurangi waktu setup. Selain itu, pekerjaan dengan kebutuhan serupa dikelompokkan (batching) untuk mengurangi waktu setup.
 - **I/O Tumpang Tindih**: Untuk mengatasi masalah kecepatan I/O yang lambat, tape magnetik digunakan sebagai perantara antara perangkat input/output (seperti pembaca kartu dan printer) dengan CPU. Ini memungkinkan CPU untuk bekerja lebih efisien tanpa harus menunggu perangkat I/O yang lambat.
+
+---
 
 ## A.3 Atlas
 - **Atlas**: Dikembangkan di Universitas Manchester pada akhir 1950-an, Atlas adalah salah satu sistem operasi pertama yang menggunakan manajemen memori dengan paging.
@@ -17,11 +21,15 @@ Dokumen ini membahas beberapa sistem operasi yang memiliki pengaruh besar dalam 
   - **Spooling**: Atlas menggunakan spooling untuk menjadwalkan pekerjaan berdasarkan ketersediaan perangkat periferal.
   - **Manajemen Memori**: Atlas menggunakan drum sebagai memori utama dan sejumlah kecil memori inti sebagai cache. Sistem ini juga menggunakan demand paging untuk mentransfer informasi antara memori inti dan drum secara otomatis.
 
+---
+
 ## A.4 XDS-940
 - **XDS-940**: Sistem operasi time-sharing yang dikembangkan di UC Berkeley pada awal 1960-an.
 - **Fitur Utama**: 
   - **Paging**: XDS-940 menggunakan paging untuk relokasi, meskipun tidak menggunakan demand paging.
   - **Time-Sharing**: Sistem ini memungkinkan beberapa pengguna untuk berbagi sumber daya komputer secara bersamaan.
+
+---
 
 ## A.5 THE
 - **THE**: Dikembangkan di Technische Hogeschool Eindhoven pada pertengahan 1960-an.
@@ -30,11 +38,15 @@ Dokumen ini membahas beberapa sistem operasi yang memiliki pengaruh besar dalam 
   - **Sinkronisasi Proses**: Sistem ini menggunakan semaphore untuk sinkronisasi proses.
   - **Deadlock Control**: THE menggunakan algoritma banker untuk menghindari deadlock.
 
+---
+
 ## A.6 RC 4000
 - **RC 4000**: Dikembangkan oleh Brinch-Hansen pada akhir 1960-an.
 - **Fitur Utama**: 
   - **Kernel**: RC 4000 dirancang sebagai kernel yang dapat digunakan untuk membangun sistem operasi lengkap.
   - **Sistem Pesan**: Komunikasi antar proses dilakukan melalui sistem pesan, yang disimpan dalam buffer dari pool buffer umum.
+
+---
 
 ## A.7 CTSS
 - **CTSS**: Sistem time-sharing eksperimental yang dikembangkan di MIT pada 1961.
@@ -42,11 +54,15 @@ Dokumen ini membahas beberapa sistem operasi yang memiliki pengaruh besar dalam 
   - **Multilevel Feedback Queue**: CTSS menggunakan algoritma penjadwalan CPU dengan multilevel feedback queue untuk mengelola waktu CPU yang diberikan kepada setiap pengguna.
   - **Swapping**: Memori pengguna ditukar antara memori utama dan drum yang cepat.
 
+---
+
 ## A.8 MULTICS
 - **MULTICS**: Dikembangkan oleh MIT, GE, dan Bell Labs dari 1965 hingga 1970.
 - **Fitur Utama**: 
   - **Sistem File Hierarkis**: MULTICS memperkenalkan sistem file hierarkis yang memungkinkan pengguna untuk membuat struktur direktori mereka sendiri.
   - **Proteksi Berbasis Ring**: Sistem ini menggunakan proteksi berbasis ring untuk mengontrol akses ke sumber daya sistem.
+
+---
 
 ## A.9 IBM OS/360
 - **OS/360**: Dikembangkan oleh IBM pada pertengahan 1960-an.
@@ -54,11 +70,15 @@ Dokumen ini membahas beberapa sistem operasi yang memiliki pengaruh besar dalam 
   - **Keluarga Komputer**: OS/360 dirancang untuk keluarga komputer IBM/360, yang mencakup berbagai ukuran dan kemampuan.
   - **Kompleksitas**: OS/360 mencoba untuk menjadi sistem operasi yang serbaguna, tetapi mengalami masalah kompleksitas dan performa.
 
+---
+
 ## A.10 TOPS-20
 - **TOPS-20**: Dikembangkan oleh DEC pada 1970-an.
 - **Fitur Utama**: 
   - **Manajemen Memori Virtual**: TOPS-20 menggunakan manajemen memori virtual untuk meningkatkan efisiensi penggunaan memori.
   - **Time-Sharing**: Sistem ini dirancang untuk mendukung banyak pengguna secara bersamaan.
+
+---
 
 ## A.11 CP/M dan MS-DOS
 - **CP/M**: Sistem operasi awal untuk komputer mikro yang dikembangkan oleh Gary Kildall.
@@ -66,11 +86,15 @@ Dokumen ini membahas beberapa sistem operasi yang memiliki pengaruh besar dalam 
 - **Fitur Utama**: 
   - **Kemudahan Penggunaan**: MS-DOS memiliki set perintah yang lebih kaya dibandingkan CP/M, membuatnya lebih mudah digunakan.
 
+---
+
 ## A.12 Macintosh Operating System dan Windows
 - **Mac OS**: Sistem operasi dengan antarmuka grafis (GUI) yang dirilis pada 1984.
 - **Windows**: Sistem operasi yang dikembangkan oleh Microsoft, menjadi pesaing utama Mac OS.
 - **Fitur Utama**: 
   - **Antarmuka Grafis**: Kedua sistem operasi ini memperkenalkan antarmuka grafis yang memudahkan pengguna untuk berinteraksi dengan komputer.
+
+---
 
 ## A.13 Mach
 - **Mach**: Dikembangkan di Carnegie Mellon University pada 1980-an.
@@ -78,12 +102,18 @@ Dokumen ini membahas beberapa sistem operasi yang memiliki pengaruh besar dalam 
   - **Kernel Mikro**: Mach dirancang sebagai kernel mikro yang mendukung multiprosesor dan komunikasi berbasis pesan.
   - **Kompatibilitas dengan UNIX**: Mach dirancang untuk meniru 4.3 BSD UNIX, memungkinkan file executable dari sistem UNIX untuk berjalan di Mach.
 
+---
+
 ## A.14 Sistem Berbasis Kemampuan (Capability-based Systems)
 - **Hydra**: Sistem proteksi berbasis kemampuan yang fleksibel, memungkinkan pengguna untuk mendefinisikan hak akses mereka sendiri.
 - **CAP**: Sistem proteksi berbasis kemampuan yang lebih sederhana dibandingkan Hydra, tetapi masih dapat digunakan untuk melindungi objek yang didefinisikan oleh pengguna.
 
+---
+
 ## A.15 Sistem Lainnya
 - **MCP dan SCOPE**: Sistem operasi awal yang mendukung multiprosesor dan memiliki desain yang baik untuk koordinasi dan sinkronisasi proses.
+
+---
 
 # Timeline Sistem Operasi yang Berpengaruh
 
@@ -107,6 +137,8 @@ Berikut adalah timeline perkembangan sistem operasi yang memiliki pengaruh besar
 | 1991  | Linux                   | Sistem operasi open-source yang dikembangkan oleh Linus Torvalds.                |
 | 2000  | Windows 2000            | Versi Windows yang ditujukan untuk pasar bisnis.                                  |
 | 2001  | macOS X                 | Sistem operasi Apple yang berbasis UNIX.                                          |
+
+---
 
 ## Penjelasan Timeline
 
@@ -157,6 +189,3 @@ Berikut adalah timeline perkembangan sistem operasi yang memiliki pengaruh besar
 
 ### 2001: macOS X
 - **macOS X**: Sistem operasi Apple yang berbasis UNIX. macOS X menggabungkan antarmuka grafis yang ramah pengguna dengan kekuatan dan stabilitas sistem operasi UNIX.
-
-## Bacaan Lebih Lanjut
-- Untuk informasi lebih lanjut tentang sistem operasi ini, lihat referensi di bagian akhir dokumen.
