@@ -1,7 +1,7 @@
 ## TUGAS SISTEM BILANGAN
 
-**Nama:** Mukhamad Aditya Rizq Qiya Mullail  
-**NRP:** 3124500050  
+**Nama:** Muhammad Yoga Ananda Satria  
+**NRP:** 3124500036  
 **Dosen Pengajar:** Dr. Ferry Astika Saputra ST, M.Sc  
 **Program Studi:** D3 Teknik Informatika  
 **Institusi:** Politeknik Elektronika Negeri Surabaya (PENS)  
@@ -21,4 +21,4 @@ Multithread, di sisi lain, memungkinkan program menjalankan beberapa jalur eksek
 
 ## Ilustrasi
 
-![](https://github.com/adityarizq433/SisOp-2025/blob/ac6d7442b0c4e230039b601c3e8c94f84083d1da/Single%20Thread%20dan%20Multi%20Thread.png)
+![](https://github.com/Rapprince29/SISOP-2025/blob/a82a6eeea0637607bbe0e4aa789fedf26af9b804/single%20thread%20multi%20thread.png)
